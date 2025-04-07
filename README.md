@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy</h1>
-<h3 align="center">I am studying at University of Science - VNUHCM. My major is Computer Science.</h3>
+<h3 align="center">I am studying at the University of Science - VNUHCM. My major is Computer Science.</h3>
 
 - 📫 How to reach me **baduynguyen3172001@gmail.com**
 
