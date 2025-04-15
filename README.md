@@ -19,8 +19,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/baduyne/Age-Prediction-CNN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" height="150" />
+      <a href="https://github.com/baduyne/Age-Gender-Prediction-from-Face-Images-using-CNN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Gender-Prediction-from-Face-Images-using-CNN&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
      <td>
