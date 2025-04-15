@@ -36,7 +36,6 @@
       </a>
     </td>
     <td>
-      <img src="https://via.placeholder.com/400x150?text=Coming+Soon..." height="150"  width="400"/>
     </td>
   </tr>
 </table>
