@@ -24,6 +24,11 @@
   </a>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/baduyne/Age-Prediction-CNN">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" />
+  </a>
+</div>
 
 
 
