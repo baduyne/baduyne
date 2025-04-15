@@ -23,23 +23,24 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Gender-Prediction-from-Face-Images-using-CNN&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
-     <td>
+    <td>
       <a href="https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
   </tr>
   <tr>
-   <td>
+    <td>
       <a href="https://github.com/baduyne/Income">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
     <td>
-      <!-- Chưa có project, có thể để trống hoặc thêm project khác -->
+      <img src="https://via.placeholder.com/400x150?text=Coming+Soon..." height="150" />
     </td>
   </tr>
 </table>
+
 
 
 
