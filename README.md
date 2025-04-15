@@ -15,20 +15,31 @@
 ![baduyne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baduyne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔬 Featured Project
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60" />
-  </a>
-  <a href="https://github.com/baduyne/Income">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" />
-  </a>
-</div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/baduyne/Age-Prediction-CNN">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60" height="150" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/baduyne/Income">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" height="150" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/baduyne/Age-Prediction-CNN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" height="150" />
+      </a>
+    </td>
+    <td>
+      <!-- Chưa có project, có thể để trống hoặc thêm project khác -->
+    </td>
+  </tr>
+</table>
 
 
 
