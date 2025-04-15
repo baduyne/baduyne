@@ -17,9 +17,13 @@
 ### 🔬 Featured Project
 
 <div>
-  [![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
+  
+<p> [![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
+</p>
+<p>
+  [![Analyzing Person's incomne](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Imcome&theme=radical&cache_seconds=60)](https://github.com/baduyne/Income.git)
 
-[![Analyzing Person's incomne](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Imcome&theme=radical&cache_seconds=60)](https://github.com/baduyne/Income.git)
+</p>
 
   
 </div>
