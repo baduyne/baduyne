@@ -19,20 +19,20 @@
 <table align="center">
   <tr>
     <td>
+      <a href="https://github.com/baduyne/Age-Prediction-CNN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" height="150" />
+      </a>
+    </td>
+     <td>
       <a href="https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/baduyne/Income">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" height="150" />
-      </a>
-    </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/baduyne/Age-Prediction-CNN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Prediction-CNN&theme=radical&cache_seconds=60" height="150" />
+   <td>
+      <a href="https://github.com/baduyne/Income">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" height="150" />
       </a>
     </td>
     <td>
