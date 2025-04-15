@@ -16,5 +16,5 @@
 
 ### 🔬 Featured Project
 
-[![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
+[![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
 
