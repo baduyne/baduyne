@@ -14,4 +14,12 @@
 
 ![baduyne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baduyne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
+### 🔬 Featured Project
+
+[![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022)
+
+> 📊 A deep analysis on neonatal mortality causes from 1999 to 2022 using ML & data visualization.  
+> 📁 Includes data cleaning, EDA, feature analysis, model training, and results interpretation.  
+> 🛠 Built with Python, Pandas, Seaborn, and Scikit-learn.  
+> ⭐ Stars and 🍴 Forks shown live!
+
