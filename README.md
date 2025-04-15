@@ -18,3 +18,6 @@
 
 [![Analyzing Neonatal Mortality](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
 
+[![Analyzing Person's incomne](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Imcome2&theme=radical&cache_seconds=60)](https://github.com/baduyne/Income.git)
+
+
