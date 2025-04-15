@@ -15,13 +15,12 @@
 ![baduyne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baduyne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔬 Featured Project
-
 <p align="center">
   <a href="https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022&theme=radical&cache_seconds=60" />
   </a>
   <a href="https://github.com/baduyne/Income">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Imcome&theme=radical&cache_seconds=60" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" />
   </a>
 </p>
 
