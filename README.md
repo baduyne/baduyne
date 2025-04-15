@@ -14,4 +14,4 @@
 
 ![baduyne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baduyne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022.git)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Analyzing-Neonatal-Mortality-Causes-1999-2022)](https://github.com/baduyne/Analyzing-Neonatal-Mortality-Causes-1999-2022.git)
