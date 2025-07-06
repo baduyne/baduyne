@@ -36,8 +36,8 @@
       </a>
     </td>
     <td>
-     <a href="https://github.com/baduyne/Income">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Income&theme=radical&cache_seconds=60" height="150" width="400" />
+     <a href="https://github.com/baduyne/HyperFaceFusion.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=HyperFaceFusion&theme=radical&cache_seconds=60" height="150" width="400" />
       </a>
     </td>
   </tr>
