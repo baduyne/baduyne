@@ -13,7 +13,7 @@
 
 ![baduyne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baduyne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### 🔬 Featured Project
+### Featured Project
 
 <table align="center">
   <tr>
