@@ -34,16 +34,11 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Gender-Prediction-from-Face-Images-using-CNN&theme=radical&cache_seconds=60" height="150"  width="400"/>
       </a>
     </td>
-    
     <td>
        <a href="https://github.com/baduyne/Agency-Sales-Manager.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Agency-Sales-Manager&theme=radical&cache_seconds=60" height="150" width="400" />
       </a>
     </td>
-    
-    
-  </tr>
-  <tr>
   </tr>
 </table>
 
