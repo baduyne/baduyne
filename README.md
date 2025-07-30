@@ -30,8 +30,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/baduyne/Age-Gender-Prediction-from-Face-Images-using-CNN">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Age-Gender-Prediction-from-Face-Images-using-CNN&theme=radical&cache_seconds=60" height="150"  width="400"/>
+      <a href="https://github.com/baduyne/Vietnamese_Translation.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Vietnamese_Translation&theme=radical&cache_seconds=60" height="150"  width="400"/>
       </a>
     </td>
     <td>
