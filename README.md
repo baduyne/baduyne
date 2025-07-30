@@ -18,8 +18,9 @@
 <table align="center">
   <tr>
     <td>
-     <a href="https://github.com/baduyne/HyperFusionNet-FaceID.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=HyperFusionNet-FaceID&theme=radical&cache_seconds=60" height="150" width="400" />
+     <a href="[https://github.com/baduyne/HyperFusionNet-FaceID.git](https://github.com/baduyne/Medical-Consultant.git)">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=baduyne&repo=Medical-Consultant
+&theme=radical&cache_seconds=60" height="150" width="400" />
       </a>
     </td>
     <td>
